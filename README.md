@@ -72,3 +72,5 @@ Full Stack project and task management platform built with **React, TypeScript, 
 I'm open to opportunities in **Software Development, Backend Development and Full Stack Development**.
 
 📍 São Paulo, Brazil
+
+💼 [LinkedIn](https://www.linkedin.com/in/ana-carolina-amaral-454157204/)
